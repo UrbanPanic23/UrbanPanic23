@@ -6,7 +6,7 @@ Este portafolio recopila los proyectos que he desarrollado durante mi formacion 
 
 ## 🛠️ Tecnologías
 
-Python · Java · Godot (GDScript) · Streamlit · Selenium · Arduino · SQL · Pygame · Swing · HTML/CSS
+Python · Java · Kotlin · Android SDK · Godot (GDScript) · Streamlit · Selenium · Arduino · SQL · Pygame · Swing · HTML/CSS
 
 ## 📂 Proyectos destacados
 
@@ -18,6 +18,7 @@ Python · Java · Godot (GDScript) · Streamlit · Selenium · Arduino · SQL ·
 | [SistemaVentasStreamlit](https://github.com/UrbanPanic23/SistemaVentasStreamlit) | Sistema de ventas web con Streamlit + SQLite |
 | [SistemaGestionUsuarios](https://github.com/UrbanPanic23/SistemaGestionUsuarios) | Sistema de gestion con roles en Java Swing |
 | [RedHopfield](https://github.com/UrbanPanic23/RedHopfield) | Red neuronal Hopfield desde cero en Python |
+| [AudiApp](https://github.com/UrbanPanic23/AudiApp) | Reproductor de musica Android con temas, notificaciones y widget flotante |
 | [AlarmaHogar](https://github.com/UrbanPanic23/AlarmaHogar) | Sistema de alarma para Arduino |
 | [BlogBerserk](https://github.com/UrbanPanic23/BlogBerserk) | Blog fan de Berserk (HTML + CSS) |
 
