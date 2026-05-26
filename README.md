@@ -1,6 +1,8 @@
 # Hola, soy Edgar 👋
 
-Egresado de Ingeniería en Sistemas, apasionado por el desarrollo de software y los videojuegos.
+Egresado de Ingenieria en Sistemas, apasionado por el desarrollo de software y los videojuegos.
+
+Este portafolio recopila los proyectos que he desarrollado durante mi formacion y tiempo libre. Cada repositorio muestra habilidades especificas: desde videojuegos en Godot y Python, hasta sistemas de gestion empresarial en Java, pasando por automatizaciones, redes neuronales y electronica con Arduino. El objetivo es demostrar competencia tecnica en multiples lenguajes y paradigmas de programacion.
 
 ## 🛠️ Tecnologías
 
