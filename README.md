@@ -1,27 +1,37 @@
 # Hola, soy Edgar 👋
 
-Egresado de Ingenieria en Sistemas, apasionado por el desarrollo de software y los videojuegos.
+Desarrollador de software egresado de Ingenieria en Sistemas Computacionales del Instituto Tecnologico Superior de Eldorado. Apasionado por construir soluciones practicas -- desde sistemas empresariales hasta videojuegos.
 
-Este portafolio recopila los proyectos que he desarrollado durante mi formacion y tiempo libre. Cada repositorio muestra habilidades especificas: desde videojuegos en Godot y Python, hasta sistemas de gestion empresarial en Java, pasando por automatizaciones, redes neuronales y electronica con Arduino. El objetivo es demostrar competencia tecnica en multiples lenguajes y paradigmas de programacion.
+---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack
 
-Python · Java · Kotlin · Android SDK · Godot (GDScript) · Streamlit · Selenium · Arduino · SQL · Pygame · Swing · HTML/CSS
+**Python** · **Java** · **Kotlin** · **Android SDK** · **Godot (GDScript)** · **Streamlit** · **Selenium** · **Arduino** · **SQL** · **Pygame** · **Swing** · **HTML/CSS**
 
-## 📂 Proyectos destacados
+---
 
-| Proyecto | Descripcion |
-|----------|-------------|
-| [CubeRift](https://github.com/UrbanPanic23/CubeRift) | 2D platformer en Godot 4 con sistema modular de movimiento |
-| [Buscaminas](https://github.com/UrbanPanic23/Buscaminas) | Buscaminas clasico en Python con Pygame |
-| [FormularioAutomatizado](https://github.com/UrbanPanic23/FormularioAutomatizado) | Automatizacion de Google Forms desde PDFs |
-| [SistemaVentasStreamlit](https://github.com/UrbanPanic23/SistemaVentasStreamlit) | Sistema de ventas web con Streamlit + SQLite |
-| [SistemaGestionUsuarios](https://github.com/UrbanPanic23/SistemaGestionUsuarios) | Sistema de gestion con roles en Java Swing |
-| [RedHopfield](https://github.com/UrbanPanic23/RedHopfield) | Red neuronal Hopfield desde cero en Python |
-| [AudiApp](https://github.com/UrbanPanic23/AudiApp) | Reproductor de musica Android con temas, notificaciones y widget flotante |
-| [AlarmaHogar](https://github.com/UrbanPanic23/AlarmaHogar) | Sistema de alarma para Arduino |
-| [BlogBerserk](https://github.com/UrbanPanic23/BlogBerserk) | Blog fan de Berserk (HTML + CSS) |
+## 📂 Proyectos
+
+| Proyecto | Stack | Descripcion |
+|----------|-------|-------------|
+| [SistemaGestionUsuarios](https://github.com/UrbanPanic23/SistemaGestionUsuarios) | Java Swing, MySQL | Sistema con roles (Admin/Capturista/Tecnico), login, CRUD y reportes PDF |
+| [SistemaVentas](https://github.com/UrbanPanic23/SistemaVentas) | Java Swing | Catalogo, carrito, notificaciones y seguimiento de compras |
+| [SistemaVentasStreamlit](https://github.com/UrbanPanic23/SistemaVentasStreamlit) | Python, Streamlit, SQLite | Web app con IVA automatico, historial y exportacion CSV |
+| [GeneradorCURP](https://github.com/UrbanPanic23/GeneradorCURP) | Java Swing, MySQL, iText | Genera CURP desde datos personales con persistencia y PDF |
+| [FormularioAutomatizado](https://github.com/UrbanPanic23/FormularioAutomatizado) | Python, Selenium, regex | Lee PDFs y rellena Google Forms automaticamente |
+| [EscannerFacturasPDF](https://github.com/UrbanPanic23/EscannerFacturasPDF) | Python, regex | Extrae RFC, folio fiscal y montos de facturas CFDI |
+| [RedHopfield](https://github.com/UrbanPanic23/RedHopfield) | Python | Red neuronal Hopfield: reconoce letras desde entrada ruidosa |
+| [MapaInteractivo](https://github.com/UrbanPanic23/MapaInteractivo) | Python, Streamlit, folium | Visualizador geoespacial con marcadores personalizables |
+| [StreamlitPlayground](https://github.com/UrbanPanic23/StreamlitPlayground) | Python, Streamlit | Demo multipagina con graficos, formularios y multimedia |
+| [CubeRift](https://github.com/UrbanPanic23/CubeRift) | Godot 4.4, GDScript | Videojuego 2D platformer/accion |
+| [Buscaminas](https://github.com/UrbanPanic23/Buscaminas) | Python, Pygame | Clasico Buscaminas con logica recursiva y assets procedurales |
+| [AlarmaHogar](https://github.com/UrbanPanic23/AlarmaHogar) | Arduino, Proteus | Alarma con sensores magneticos y simulacion |
+| [AudiApp](https://github.com/UrbanPanic23/AudiApp) | Kotlin, Android | Reproductor de musica con temas, notificaciones y widget |
+| [BlogBerserk](https://github.com/UrbanPanic23/BlogBerserk) | HTML5, CSS3 | Pagina tributo al manga Berserk |
+
+---
 
 ## 📫 Contacto
 
-- GitHub: [@UrbanPanic23](https://github.com/UrbanPanic23)
+**Email:** M3ezzaedgar@gmail.com
+**GitHub:** [@UrbanPanic23](https://github.com/UrbanPanic23)
